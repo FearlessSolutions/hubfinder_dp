@@ -1,3 +1,9 @@
+/* Global Fixes */
+h1,h2,h3,h4,h5{
+	margin: 0;
+}
+
+/* Main Styles */
 .navbar-inverse{
 	background:rgba(147,197,75,1);
 
@@ -50,6 +56,23 @@
 	padding: .7em;
 	background: #f8f5f0;
 	border:1px solid #dfd7ca;
+}
+.infoSection{
+	min-height: 5em;
+	background: #f8f5f0;
+	color:#333;
+	text-align: center;
+	padding:4em 0;
+}
+.infoSection .glyphicon{
+	color: rgba(147,197,75,1);
+}
+/* Change selection colors */
+::selection {
+  background: #f8f5f0; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #f8f5f0; /* Gecko Browsers */
 }
 
 /* Bootstrap Mods */
