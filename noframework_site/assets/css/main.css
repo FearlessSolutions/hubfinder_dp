@@ -1,0 +1,51 @@
+.navbar-inverse{
+	background:rgba(147,197,75,1);
+
+}
+.landingHeader{
+	width: 100%;
+	height: 40em;
+	background: url('../img/background.jpg') center;
+	background-size: cover;
+	padding-top:5em;
+}
+.heading_highlighted{
+	width: 40%;
+	float: left;
+	padding-top: 5em;
+}
+.heading_highlighted h1{
+	background-color: rgba(147,197,75,.9);
+	display: inline-block;
+	color: #fff;
+	padding: .5em;
+	margin: 0em;
+	float: left;
+}
+.heading_highlighted p{
+	background-color: rgba(147,197,75,.7);
+	display: inline-block;
+	color: #444;
+	padding: .5em;
+	margin: 0em;
+	float: left;
+}
+.heading_highlighted .try{
+	background-color: rgba(147,197,75,.9);
+	margin:3em 50% 1em 0;
+	color:#fff;
+}
+.heading_highlighted .input-group{
+	width: 80%;
+	float:left;
+}
+#tryItMap{
+	width: 55%;
+	float: right;
+	height: 25em;
+	background: #fff;
+	margin-top: 3em;
+	border-radius: .5em;
+	overflow: hidden;
+	padding: .5em;
+}

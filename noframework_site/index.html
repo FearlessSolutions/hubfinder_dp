@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Hubfinder</title>
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="assets/css/theme.css" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="container-fluid">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">
+				<img src="assets/img/hubfinder.svg" alt="Hubfinder" width="50" style="margin-top:-1em;"/> HubFinder
+			</a>
+		</div>
+		
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="#">Link</a></li>
+				<li><a href="#">Link</a></li>
+				<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+					<ul class="dropdown-menu" role="menu">
+					<li><a href="#">Action</a></li>
+					<li><a href="#">Another action</a></li>
+					<li><a href="#">Something else here</a></li>
+					<li class="divider"></li>
+					<li><a href="#">Separated link</a></li>
+					<li class="divider"></li>
+					<li><a href="#">One more separated link</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>
+<div class="landingHeader">
+	<div class="container">
+		<div class="heading_highlighted">
+			<h1>Blah, Blah, Blah.</h1>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, omnis ipsa eum error dicta perferendis et fugiat est fugit temporibus fuga mollitia ipsam velit laborum maxime consequuntur quos qui at?
+			</p>
+			<p class="try">
+				Give it a try
+			</p>
+			
+			<div class="input-group">
+				<input type="text" class="form-control" placeholder="Enter your address or ZIP code...">
+				<span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span></span>
+			</div>
+
+		</div>
+		<div id="tryItMap">
+			<iframe id="map" width="100%" height="100%" frameBorder="0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDXUi-xTR2CJuy7rCkRE02y2Yq9uxVmuoA&amp;q=Space+Needle,Seattle+WA">
+			
+			</iframe>
+		</div>
+	</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js" ></script>
+</body>
+</html>
