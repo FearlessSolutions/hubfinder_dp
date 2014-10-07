@@ -2,100 +2,30 @@
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 640 640" enable-background="new 0 0 640 640" xml:space="preserve">
-<polygon display="none" fill="#58595B" points="11.1,716.8 -0.7,597.1 25.4,591.2 -14.9,548.7 -14.9,526.9 202.2,456.3 608.5,463.9 
-	703.3,443 703.3,543.1 715.1,646.2 670.1,646.2 530.3,700.7 "/>
-<path fill="#F26522" stroke="#F15A29" stroke-width="3" stroke-miterlimit="10" d="M610.6,233.2c0,123.5-223.5,389.5-223.5,389.5
-	S163.8,356.5,163.8,233.2S263.8,9.7,387.3,9.7S610.6,109.7,610.6,233.2z"/>
-<circle fill="#F1F2F2" cx="388.5" cy="231.1" r="190.8"/>
-<g id="Layer_2">
-	<g>
-		<g>
-			<defs>
-				<circle id="SVGID_1_" cx="388.5" cy="231.1" r="190.8"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  overflow="visible"/>
-			</clipPath>
-			<polygon clip-path="url(#SVGID_2_)" fill="#6D6E71" points="126.3,411.7 61.9,383.5 61.9,249.1 126.3,222.8 			"/>
-		</g>
-		<g>
-			<defs>
-				<circle id="SVGID_3_" cx="388.5" cy="231.1" r="190.8"/>
-			</defs>
-			<clipPath id="SVGID_4_">
-				<use xlink:href="#SVGID_3_"  overflow="visible"/>
-			</clipPath>
-			<polygon clip-path="url(#SVGID_4_)" fill="#808285" points="125.2,435.4 237.7,442.8 237.7,268.1 125.2,246.5 			"/>
-		</g>
-		<g>
-			<defs>
-				<circle id="SVGID_5_" cx="388.5" cy="231.1" r="190.8"/>
-			</defs>
-			<clipPath id="SVGID_6_">
-				<use xlink:href="#SVGID_5_"  overflow="visible"/>
-			</clipPath>
-			<polygon clip-path="url(#SVGID_6_)" fill="#6D6E71" points="237.7,470 151.9,439.7 151.9,295.6 237.7,281.4 			"/>
-		</g>
-		<g>
-			<defs>
-				<circle id="SVGID_7_" cx="388.5" cy="231.1" r="190.8"/>
-			</defs>
-			<clipPath id="SVGID_8_">
-				<use xlink:href="#SVGID_7_"  overflow="visible"/>
-			</clipPath>
-			<polygon clip-path="url(#SVGID_8_)" fill="#808285" points="534,479.5 612,449.2 612,305.1 534,290.8 			"/>
-		</g>
-		<g>
-			<defs>
-				<circle id="SVGID_9_" cx="388.5" cy="231.1" r="190.8"/>
-			</defs>
-			<clipPath id="SVGID_10_">
-				<use xlink:href="#SVGID_9_"  overflow="visible"/>
-			</clipPath>
-			<polygon clip-path="url(#SVGID_10_)" fill="#6D6E71" points="535,479.5 432.8,463.4 432.8,288.5 535,290.8 			"/>
-		</g>
-		<g>
-			<defs>
-				<circle id="SVGID_11_" cx="388.5" cy="231.1" r="190.8"/>
-			</defs>
-			<clipPath id="SVGID_12_">
-				<use xlink:href="#SVGID_11_"  overflow="visible"/>
-			</clipPath>
-			<polygon clip-path="url(#SVGID_12_)" fill="#808285" points="236.6,470 349.2,453.9 349.2,279 236.6,281.4 			"/>
-		</g>
-		<g>
-			<defs>
-				<circle id="SVGID_13_" cx="388.5" cy="231.1" r="190.8"/>
-			</defs>
-			<clipPath id="SVGID_14_">
-				<use xlink:href="#SVGID_13_"  overflow="visible"/>
-			</clipPath>
-			<polygon clip-path="url(#SVGID_14_)" fill="#6D6E71" points="389.7,528.6 270.7,488.3 270.7,130.4 389.7,59.3 			"/>
-		</g>
-		<g>
-			<defs>
-				<circle id="SVGID_15_" cx="388.5" cy="231.1" r="190.8"/>
-			</defs>
-			<clipPath id="SVGID_16_">
-				<use xlink:href="#SVGID_15_"  overflow="visible"/>
-			</clipPath>
-			<polygon clip-path="url(#SVGID_16_)" fill="#808285" points="388.5,528.6 501.1,488.3 501.1,130.4 388.5,59.3 			"/>
-		</g>
-	</g>
-	<polygon fill="#D8D8D8" points="307.7,164.3 284.9,172.3 284.9,138.7 307.7,127.3 	"/>
-	<polygon display="none" fill="#D8D8D8" points="307.7,206.9 284.9,212.6 284.9,179 307.7,170 	"/>
-	<polygon fill="#D8D8D8" points="307.7,247.2 284.9,250.5 284.9,219.3 307.7,212.6 	"/>
-	<polygon fill="#D8D8D8" points="307.7,285.2 284.9,288.5 284.9,257.2 307.7,252.9 	"/>
-	<polygon display="none" fill="#D8D8D8" points="339.4,152.2 313.6,160.9 313.6,124.7 339.4,112.4 	"/>
-	<polygon fill="#D8D8D8" points="339.4,198.2 313.6,204.1 313.6,167.8 339.4,158.1 	"/>
-	<polygon fill="#D8D8D8" points="339.4,241.3 313.6,244.9 313.6,211.2 339.4,206.5 	"/>
-	<polygon fill="#D8D8D8" points="339.4,282.1 313.6,285.6 313.6,252 339.4,247.2 	"/>
-	<polygon fill="#D8D8D8" points="375,140.1 346.1,149.8 346.1,109 375,95.3 	"/>
-	<polygon display="none" fill="#D8D8D8" points="375,191.8 346.1,198.6 346.1,157.9 375,146.7 	"/>
-	<polygon display="none" fill="#D8D8D8" points="375,240.4 346.1,244.4 346.1,206.5 375,198.4 	"/>
-	<polygon display="none" fill="#D8D8D8" points="375,286.3 346.1,290.4 346.1,252.4 375,247.2 	"/>
+	 viewBox="0 0 214.6 280.9" enable-background="new 0 0 214.6 280.9" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="15.2777" y1="107.5509" x2="199.2777" y2="107.5509">
+	<stop  offset="0" style="stop-color:#8DC63F"/>
+	<stop  offset="1" style="stop-color:#FFF200"/>
+</linearGradient>
+<circle fill="url(#SVGID_1_)" cx="107.3" cy="107.6" r="92"/>
+<path fill="#009444" d="M107.3,0.3C48,0.3,0,47.5,0,105.8s89.9,175.1,110.3,175.1c21.5,0,104.2-116.9,104.2-175.1
+	S166.5,0.3,107.3,0.3z M107.3,191.9c-48.5,0-87.9-38.7-87.9-86.4s39.3-86.4,87.9-86.4s87.9,38.7,87.9,86.4S155.8,191.9,107.3,191.9z
+	"/>
+<g>
+	<defs>
+		<circle id="SVGID_2_" cx="107.3" cy="105" r="88"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<polygon clip-path="url(#SVGID_3_)" fill="#006838" points="110.7,201.4 52.9,225 52.9,73.7 110.7,50.1 	"/>
+	<polygon clip-path="url(#SVGID_3_)" fill="#2BB673" points="168.7,215.6 110.9,201.4 110.9,50.1 168.7,64.2 	"/>
+	<polygon clip-path="url(#SVGID_3_)" fill="#006838" points="52.8,204 11.2,218.3 11.2,126.1 52.8,111.7 	"/>
+	<polygon clip-path="url(#SVGID_3_)" fill="#2BB673" points="94.5,212.6 52.9,204 52.9,111.7 94.5,120.3 	"/>
+	<polygon clip-path="url(#SVGID_3_)" fill="#006838" points="175.4,209 143.5,220 143.5,149.3 175.4,138.3 	"/>
+	<polygon clip-path="url(#SVGID_3_)" fill="#2BB673" points="207.4,215.6 175.5,209 175.5,138.3 207.4,144.9 	"/>
+	<polygon clip-path="url(#SVGID_3_)" fill="#006838" points="136.2,207 116,214 116,169.3 136.2,162.3 	"/>
+	<polygon clip-path="url(#SVGID_3_)" fill="#2BB673" points="156.4,211.2 136.2,207 136.2,162.3 156.4,166.5 	"/>
 </g>
-<path opacity="0.11" fill="#F1F2F2" enable-background="new    " d="M612,233.2c0,123.5-446.8,123.5-446.8,0S265.2,9.7,388.7,9.7
-	S612,109.7,612,233.2z"/>
+<path opacity="0.21" fill="#FFFFFF" d="M0.3,107c0-59.1,47.9-107,107-107s107,47.9,107,107c0,0-47.9-23-107-23S0.3,107,0.3,107z"/>
 </svg>

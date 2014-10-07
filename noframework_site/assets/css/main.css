@@ -47,5 +47,14 @@
 	margin-top: 3em;
 	border-radius: .5em;
 	overflow: hidden;
-	padding: .5em;
+	padding: .7em;
+	background: #f8f5f0;
+	border:1px solid #dfd7ca;
+}
+
+/* Bootstrap Mods */
+.addon-inverse{
+	background: #333;
+	color:#fff;
+	border:1px solid #000;
 }
