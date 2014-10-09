@@ -75,6 +75,13 @@ h1,h2,h3,h4,h5{
   background: #f8f5f0; /* Gecko Browsers */
 }
 
+.features{
+	padding-left: 0;
+	list-style-type: none;
+	float: left;
+	font-size: 25pt;
+}
+
 /* Bootstrap Mods */
 .addon-inverse{
 	background: #333;
